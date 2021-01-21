@@ -6,7 +6,7 @@ export default class ProjectsCarousel extends Component {
 	render() {
 		const settings = {
 			autoplay: true,
-			autoplaySpeed: 6000,
+			autoplaySpeed: 9000,
 			dots: true,
 			wheelScroll: 4,
 		};
