@@ -21,7 +21,7 @@ const NavBar = () => {
 				</li>
 				<li>
 					<a
-						href="http://erons.codes"
+						href="http://erons-blog.netlify.app"
 						target="_blank"
 						rel="noopener noreferrer"
 					>
